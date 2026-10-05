@@ -12,6 +12,14 @@ Email Me 👉 ✉️ **kishorkaushal117@.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** kaushal singh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+- <a href="https://github.com/caps-shubham">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+kaushal+%F0%9F%91%8B;Frontend+Developer+%7C+Creative+Coder;Turning+ideas+into+reality;Always+learning,+always+building.&font=Fira+Code&center=true&width=600&height=50&color=2575fc&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=caps-shubham&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/github/followers/caps-shubham?label=Followers&style=for-the-badge&color=2575fc" alt="followers" />
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaushal108-developer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
